@@ -27,7 +27,7 @@ I build responsive web applications and e-commerce interfaces. I currently work 
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: [ratneshpandey.me](https://ratneshpandey.me)
-- 💼 LinkedIn: [Ratnesh Pandey](https://www.linkedin.com/in/ratnesh-pandey-112329227/)
+- 💼 LinkedIn: [Ratnesh Pandey](https://www.linkedin.com/in/ratnesh89/)
 
 ## 🎯 Currently
 
